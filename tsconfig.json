@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "charset": "utf-8",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "outDir": "js",
+    "rootDir": "./src"
+  },
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
+}
